@@ -36,4 +36,4 @@ birdseye
 snoop
 
 # Información adicional
-friendly-traceback
+friendly
