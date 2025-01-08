@@ -34,3 +34,6 @@ bqplot
 # Debugging
 birdseye
 snoop
+
+# Información adicional
+friendly-traceback

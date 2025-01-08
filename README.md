@@ -1,29 +1,38 @@
-# JupyterLite Demo
+# JupyterLite Pyodide
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ingcom-unrn.github.io/jupyterlite/lab/index.html)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+JupyterLite está listo para ser utilizado sin instalación o pasos adicionales.
 
-## ✨ Try it in your browser ✨
+## ✨ it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://ingcom-unrn.github.io/jupyterlite/**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## Requisitos
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
+JupyterLite funciona en navegadores modernos, aproximadamente:
 
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+## Herramientas instaladas
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+Debuggers
 
-## Further Information and Updates
+ - [Birdseye](https://birdseye.readthedocs.io/en/latest/index.html)
+ - [Snoop](https://snoop.readthedocs.io/en/latest/)
 
-For more info, keep an eye on the JupyterLite documentation:
+Ayudas extra
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+ - [Friendly Traceback](https://friendly-traceback.github.io/docs/beginner.html)
+
+## Manuales
+La idea es tener apuntes de uso de las herramientas, y se aceptan pull requests para armarlos.
+
+- JupyterLab
+- Birdseye
+- Snoop
+
+## Más información
+
+[Ingreso](https://github.com/INGCOM-UNRN/ingreso)
