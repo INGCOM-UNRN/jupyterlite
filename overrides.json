@@ -3,12 +3,12 @@
     "toolbar": [
       {
         "name": "download",
-        "label": "Download",
+        "label": "Descargar",
         "args": {},
         "command": "docmanager:download",
         "icon": "ui-components:download",
         "rank": 50
       }
     ]
-  }
+  } 
 }

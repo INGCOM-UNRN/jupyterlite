@@ -5,6 +5,8 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy"
       ]
+    },
+    "pyodide": {
+        "packages": ["birdseye", "birdseye", "friendly", "nbformat", "markdown"]
     }
-  }
-  
+}
