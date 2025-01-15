@@ -32,7 +32,6 @@ bqplot
 
 
 # Debugging
-birdseye
 snoop
 
 # Información adicional
