@@ -1,12 +1,16 @@
-# JupyterLite Pyodide
+# JupyterLite Ingreso
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ingcom-unrn.github.io/jupyterlite/lab/index.html)
 
-JupyterLite está listo para ser utilizado sin instalación o pasos adicionales.
+## ¿Qué es JupyterLite?
 
-## ✨ it in your browser ✨
+JupyterLite es una distribución de Jupyter que se ejecuta completamente en el navegador, sin necesidad de servidor o instalación local. Basado en WebAssembly y Pyodide, permite ejecutar notebooks de Python directamente desde cualquier navegador moderno, ofreciendo una experiencia similar a JupyterLab pero de forma portátil y accesible desde cualquier lugar.
 
-➡️ **https://ingcom-unrn.github.io/jupyterlite/**
+Esta implementación está lista para ser utilizada sin instalación o pasos adicionales.
+
+Pueden acceder con el enlace a [JupyterLite](https://ingcom-unrn.github.io/jupyterlite/lab/index.html) y consultar el [apunte del ingreso](https://ingcom-unrn.github.io/apunte-ingreso/)
+
+Si se encuentran muy perdidos con la herramienta, vean la guia de uso [JupyterLite](https://ingcom-unrn.github.io/apunte-ingreso/jupyterlab) o pregunten en los espacios dedicados. 
 
 ## Requisitos
 
@@ -15,24 +19,3 @@ JupyterLite funciona en navegadores modernos, aproximadamente:
 - Firefox 90+
 - Chromium 89+
 
-## Herramientas instaladas
-
-Debuggers
-
- - [Birdseye](https://birdseye.readthedocs.io/en/latest/index.html)
- - [Snoop](https://snoop.readthedocs.io/en/latest/)
-
-Ayudas extra
-
- - [Friendly Traceback](https://friendly-traceback.github.io/docs/beginner.html)
-
-## Manuales
-La idea es tener apuntes de uso de las herramientas, y se aceptan pull requests para armarlos.
-
-- JupyterLab
-- Birdseye
-- Snoop
-
-## Más información
-
-[Ingreso](https://github.com/INGCOM-UNRN/ingreso)
