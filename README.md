@@ -8,14 +8,17 @@ JupyterLite es una distribución de Jupyter que se ejecuta completamente en el n
 
 Esta implementación está lista para ser utilizada sin instalación o pasos adicionales.
 
+## Material
+
 Pueden acceder con el enlace a [JupyterLite](https://ingcom-unrn.github.io/jupyterlite/lab/index.html) y consultar el [apunte del ingreso](https://ingcom-unrn.github.io/apunte-ingreso/)
 
-Si se encuentran muy perdidos con la herramienta, vean la guia de uso [JupyterLite](https://ingcom-unrn.github.io/apunte-ingreso/jupyterlab) o pregunten en los espacios dedicados. 
+Si se encuentran muy perdidos con la herramienta, vean la guía de uso [JupyterLite](https://ingcom-unrn.github.io/apunte-ingreso/jupyterlab) o pregunten en los espacios dedicados. 
 
 ## Requisitos
 
-JupyterLite funciona en navegadores modernos, aproximadamente:
+JupyterLite solo necesita de un navegadores modernos, aproximadamente:
 
 - Firefox 90+
 - Chromium 89+
 
+Este entorno funciona, técnicamente, en cualquier cosa que tenga un navegador, incluyendo televisores inteligentes, teléfonos y tablets. Pero para que su uso no sea engorroso, les recomendamos que utilicen, como mínimo, un teclado.

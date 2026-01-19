@@ -33,6 +33,7 @@ bqplot
 
 # Debugging
 snoop
+icecream
 
 # Información adicional
 friendly-traceback

@@ -8,6 +8,6 @@
       ]
     },
     "pyodide": {
-        "packages": ["birdseye", "birdseye", "snoop" , "friendly", "nbformat", "markdown"]
+        "packages": ["birdseye", "snoop" , "friendly", "nbformat", "markdown"]
     }
 }
